@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GraphiTheBard&theme=blue-green" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=antonkomarev&theme=blue-green" alt="Profile Views Counter">
 </p>
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
